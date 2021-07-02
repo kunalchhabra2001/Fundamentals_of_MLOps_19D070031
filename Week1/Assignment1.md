@@ -71,4 +71,4 @@ Sources Used-
 
                 Part 2
         
-![Getting Started](AWS_Console.jpg)
+![AWS Console Pic](AWS_Console.JPG)

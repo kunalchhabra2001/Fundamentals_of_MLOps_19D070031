@@ -71,4 +71,4 @@ Sources Used-
 
                 Part 2
         
-<img src="C:\Users\Kunal Chhabra\Desktop\AWS_Console.jpg" alt="Getting started" />
+![Getting Started](./AWS_Console.jpg)

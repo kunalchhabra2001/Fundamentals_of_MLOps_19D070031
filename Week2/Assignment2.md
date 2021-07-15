@@ -6,6 +6,7 @@ Main contains combined dt+rf files, and exp1_dt contains only Decision tree file
 
 2) Commands For Part 1
 
+```
 > dvc init
 > dvc cache dir /path/to/external_cache
 > cat .dvc/config
@@ -17,6 +18,7 @@ Main contains combined dt+rf files, and exp1_dt contains only Decision tree file
 > git commit -m "Configure remote storage"
 > dvc push
 > git push origin main
+```
 
  ## Part 2
         

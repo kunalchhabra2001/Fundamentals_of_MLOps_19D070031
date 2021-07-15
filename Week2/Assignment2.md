@@ -1,10 +1,11 @@
-                # Week 2
-                ## Part 1
+## Week 2
+## Part 1
         
 1) Link to MLOps Assignment - https://github.com/kunalchhabra2001/MLOps_Assignment
 Main contains combined dt+rf files, and exp1_dt contains only Decision tree files, and exp2_rf contains only Random Forest files
 
 2) Commands For Part 1
+
 > dvc init
 > dvc cache dir /path/to/external_cache
 > cat .dvc/config
@@ -17,7 +18,7 @@ Main contains combined dt+rf files, and exp1_dt contains only Decision tree file
 > dvc push
 > git push origin main
 
-                ## Part 2
+ ## Part 2
         
 3) 
 - Decision Tree
